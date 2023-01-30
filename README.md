@@ -5,3 +5,4 @@
 3. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 4. [Rotate Function](https://leetcode.com/problems/rotate-function/description/)
 5. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
+6. [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/)
