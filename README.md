@@ -7,3 +7,4 @@
 5. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
 6. [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/)
 7. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+8. [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/)
