@@ -8,3 +8,4 @@
 6. [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/)
 7. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 8. [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/)
+9. [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/)
