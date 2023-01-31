@@ -9,3 +9,4 @@
 7. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 8. [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/)
 9. [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/)
+10. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
