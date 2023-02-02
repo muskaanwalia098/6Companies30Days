@@ -14,3 +14,4 @@
 12. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
 13. [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
 14. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
+15. [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/)
