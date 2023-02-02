@@ -13,3 +13,4 @@
 11. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 12. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
 13. [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
+14. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
