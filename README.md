@@ -18,3 +18,4 @@
 16. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
 17. [Valid Square](https://leetcode.com/problems/valid-square/description/)
 18. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
+19. [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)
