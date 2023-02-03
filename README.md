@@ -15,3 +15,6 @@
 13. [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
 14. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 15. [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/)
+16. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
+17. [Valid Square](https://leetcode.com/problems/valid-square/description/)
+18. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
