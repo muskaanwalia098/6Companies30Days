@@ -23,3 +23,4 @@
 21. [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/)
 22. [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/description/)
 23. [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/)
+24. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
